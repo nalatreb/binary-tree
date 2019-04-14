@@ -1,0 +1,22 @@
+{
+  "name": "binary-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalatreb/binary-tree.git"
+  },
+  "author": "nalatreb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nalatreb/binary-tree/issues"
+  },
+  "homepage": "https://github.com/nalatreb/binary-tree#readme",
+  "dependencies": {
+    "p5": "^0.8.0"
+  }
+}
